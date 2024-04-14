@@ -1,4 +1,4 @@
-# Game
+#Game
 payload:
   - PROCESS-NAME,jp.konami.pesam
   - PROCESS-NAME,com.activision.callofduty.warzone
