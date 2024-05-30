@@ -1,4 +1,7 @@
 #TelegramSG
+pload
+IP-ASN, 44907, SG, no-resolve
+IP-ASN, 62014, SG, no-resolve
 IP-CIDR,91.108.16.0/21,no-resolve
 IP-CIDR,91.108.56.0/23,no-resolve
 IP-CIDR,149.154.168.0/22,no-resolve
